@@ -1,4 +1,4 @@
-// Constanza Gonzalez Vazquez  Ingeneria de Animacion Digital 00606435
+// Constanza Gonzalez Vazquez  Ingeneria de Animacion Digital https://github.com/cgv7000/Algoritmo-y-Programacion.git
 //Escribir un algoritmo que sume dos numeros: A = 4 B = 3
 Algoritmo SEC01
 	Definir A, B, C Como Entero
