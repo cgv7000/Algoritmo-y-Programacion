@@ -11,3 +11,4 @@ Algoritmo SEC05
 	Escribir "El area del rectangulo es: " , Largo * Ancho;
 	FinAlgoritmo
 
+
