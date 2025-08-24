@@ -8,5 +8,6 @@ Algoritmo SEC05
 	Escribir "Introduzca el ancho:";
 	Leer Ancho;
 	
-	Escribir "El area del rectangulo es: " ; Largo * Ancho;
+	Escribir "El area del rectangulo es: " , Largo * Ancho;
 	FinAlgoritmo
+
